@@ -1,0 +1,5 @@
+{
+  "name": "LensLink Marketplace",
+  "description": "A premium marketplace connecting photographers and videographers with clients, featuring portfolio displays, search, ratings, and booking.",
+  "requestFramePermissions": ["geolocation"]
+}
